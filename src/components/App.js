@@ -4,7 +4,8 @@ import Home from "./Home";
 import About from "./About";
 import ProjectList from "./ProjectList";
 import user from "../data/user";
-
+import ProjectItem from "./ProjectItem";
+//import NavBar from "./NavBar";
 function App() {
   return (
     <div>
